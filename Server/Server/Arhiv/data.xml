@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><StudentList>
+    <Student>
+        <Name>Ivan</Name>
+        <SecondName>Ivanov</SecondName>
+        <Age>19</Age>
+        <Cource>3</Cource>
+    </Student>
+    <Student>
+        <Name>Ivan</Name>
+        <SecondName>Ivanov</SecondName>
+        <Age>19</Age>
+        <Cource>3</Cource>
+    </Student>
+</StudentList>
